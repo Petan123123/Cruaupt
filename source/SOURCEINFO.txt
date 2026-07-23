@@ -1,0 +1,2 @@
+// This is the main source folder containing all the assets used in this library (Cruaupt).
+// You can search in this folder by using the 'Go to file' search bar and searching your items.
